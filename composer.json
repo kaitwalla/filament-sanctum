@@ -1,17 +1,21 @@
 {
-    "name": "devtical/filament-sanctum",
+    "name": "kaitwalla/filament-sanctum",
     "description": "Filament Sanctum",
     "keywords": [
         "Devtical",
         "sanctum",
         "laravel"
     ],
-    "homepage": "https://github.com/devtical/filament-sanctum",
+    "homepage": "https://github.com/kaitwalla/filament-sanctum",
     "license": "MIT",
     "authors": [
         {
             "name": "Wahyu Kristianto",
             "email": "w.kristories@gmail.com"
+        }.
+        {
+            "name": "Kaitlyn Concilio",
+            "email": "git@kait.dev"
         }
     ],
     "require": {
